@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="btn_Samsung">Samsung</string>
+    <string name="btn_Xiaomi">Xiaomi</string>
+    <string name="btn_Lg">Lg</string>
+    <string name="btn_Oppo">Oppo</string>
+    <string name="btn_Iphone">Iphone</string>
+    <string name="btn_Motorola">Motorola</string>
+    <string name="btn_Atras">Atras</string>
+</resources>
