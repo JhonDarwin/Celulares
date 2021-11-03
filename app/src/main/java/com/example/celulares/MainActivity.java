@@ -38,4 +38,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(motorola);
     }
 
+    public void login(View view){
+        Intent login = new Intent(this,Login.class);
+        startActivity(login);
+    }
+    public void resgistro(View view){
+        Intent registro = new Intent(this,Registro.class);
+        startActivity(registro);
+    }
+
 }

@@ -7,4 +7,8 @@
     <string name="btn_Iphone">Iphone</string>
     <string name="btn_Motorola">Motorola</string>
     <string name="btn_Atras">Atras</string>
+    <string name="btn_Login">Login</string>
+    <string name="btn_Reegistro">Resgister</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="btn_Ingresar">Ingresar</string>
 </resources>
